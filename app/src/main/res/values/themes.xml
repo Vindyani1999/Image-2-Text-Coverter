@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ImageToTextConvertor" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/background</item>
+    </style>
+
+    <style name="Theme.ImageToTextConvertor" parent="Base.Theme.ImageToTextConvertor" />
+</resources>
